@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1676359116360' stop='1676359119749'>
+    <name>Demo Tests</name>
+    <title>Demo Tests</title>
+    <test-cases>
+        <test-case start='1676359116360' status='passed' stop='1676359119747'>
+            <name>My first Test</name>
+            <title>My first Test</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='firefox-98.0.1'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
